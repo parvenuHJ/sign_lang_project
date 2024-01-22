@@ -72,6 +72,9 @@ vultr를 통한 서버 배포
 ## 수어 번역 결과 텍스트 출력 및 접수 안내 영상 출력 : 
 ![image](https://github.com/parvenuHJ/sign_lang_project/assets/139337239/c2422dee-2750-4987-a15e-647de8eae109)
 
+## 시연 영상 :
+https://youtu.be/KeHyMNaloXE
+
 
 ## 소감 
 개발 계획부터 서버 배포까지 개발을 모두 진행한 첫 경험이였습니다.
